@@ -51,15 +51,7 @@ Limitations:
  • Training can be time-consuming and resource-intensive.
  • Less predictable than classic methods during early learning phases.
 
-Comparison Table
 
-Feature Classic Navigation Stack Navigation with RL
-Approach Algorithm-based Learning-based
-Adaptability Low to moderate High
-Map Requirement Usually required Not always required
-Predictability High Medium (depends on training)
-Setup Complexity Moderate High
-Real-time Learning No Possible
 
 Conclusion
  • The Classic Navigation Stack is best suited for stable, well-mapped environments with predictable conditions.
